@@ -21,7 +21,6 @@
     ```
 
     →`dist/chatGPT_Fashion`**ディレクトリが出来ていたら成功**
-<br>
 
 4. chrome拡張機能の登録
 
